@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bodega-d035b",
+  "private_key_id": "cc4035663e8a7e62e7cb25ecddf59b9546e255e6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpnpQ9blBEYKyP\n46T4qsdgc4RcMhUpBx27/w87ZDP2cIzjrDx2xr5Iq7kEeFzVMCe5V88rG6fHwOYt\n9Z6l1vrP9ImQk8kczRKlg9lufy7iwIshCnqLSEVyOcDjxzkorkxwkC5HPZyFmsYV\nlcEGs0evfoxZVsH1PyapOaHNTuzYyswhs9wnV8uoDAqfvZlWRjnIg1dTWRgelzsd\nwveX873QJuVJFclYjH86UNRyr5wOCQHRAtw48Una/Sfa62GnUIbE1YXlf5WmbZg9\n3LzcUhQHF8rZM+9uVI84NUZ44U9PR6pjCx1+Z4J4SKWRkUue/m6ikD6Hlwsu2IiW\nCBa2tU8jAgMBAAECggEAXtcrbBL0EAZFF7b9WpwOC7hps/n7AChs6Eyf9Ob1d2by\ns1zRQRDm396i4k8wtLVzcvlUV7ZG8z960o6jpMS1FqY6EJEGdKRGHR59Ly//qzsq\nYDP+Urv4wWnzxiSzLjIwQwQtXWuENvMB1nJwpdUzVWnk9UHUxMip28pTRuNzIIDR\nJCp8xzc7PUJGXPnTzki7Qgmv//nzrKjHof6sciliKXI8rn+oA9ejzdHH8OLg1xy7\nWFiUkzL2qaSK0MuP23exxt/KcwqzMyw5ywb4vuwvO9n7tNpBh7aOwRuDxkc+gcWX\ni2z6QSoRGEJIDqa6E5S17AIP++1ALIoP89zf3Ztd4QKBgQD6+xu+Dro+UzhqeI6e\nEc7YO29fe4rb8jz/s5ZyVxwUUA+K0PCBmC8RTWcvfixdWxFa6/omOsuZIlw7ob/r\nOQsM5W+OqlefdEXqxq9u+uawBYgYAk7zW67JZEAfCha/kD3mNM0s/BRShT33Gxc5\nrOBPUbPcPLX43qVGTSI3dPM0QwKBgQDuSpbRsejMDschUndxT1f+U2E5L1VO6AbO\nUSsCqz/u8cldgy8G/XavmLHWsd84WT7mIo2vEmHPcsGHDH7k5YqQo0dpnXQoE/Tz\nS5dcYcw+sjhve1EYNURUkxj0Ps+E2V404j8ivV9cjd3pab59jlk05WRh43MEpHBu\nasdm0BI7oQKBgBHVoC4MO93L6hlewbunxkwFRS/CxqZEe2MsLsenOv6Shdg2arC6\n0LVpC6kLTTnBC+WrGRZ4XRlfoLA4GTwszIU5FIlNv3Y8O++n+LVpLNVbP0V9fIC8\nhhoXfpr2C5HHPS7Ll7zXmNYYU8Pob+kQSMw6IQ7IXaH2qEXrmz/XlqSjAoGBAI8s\nj9vkqnxY8LqLwyp4wuUTkhn636XucZBrYo1S+bIG4rdmB86KYlJ1S301GGrR7KH3\n5utm/w/W4oLTNjcv2Aa5pEHIEi+2dfns1D/0nvSYvqH1FS+XabvrOhYe2y72L81U\nlxy3beG9d7U0DPmBmwXWQm8yazxB1S/yxmZ25E2hAoGBAPFhGbDbqThboszftxdT\nq6zEmd+tSxw4t6KKdsNZjI2LGSOCYR10B81KKrnprdGqQNFag4CTDeFrYB95mZd+\n2qQgVY4UeCBVMs80X304v6RsuIz6mPkFWwG6paQwpQPf5y6Q7RZT1YG2r1t26/X4\npa/AaJhG2MQixxkAHBLs8hCg\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@bodega-d035b.iam.gserviceaccount.com",
+  "client_id": "106537494616495105270",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40bodega-d035b.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
