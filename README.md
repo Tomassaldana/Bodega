@@ -7,7 +7,8 @@ al menu principal donde se pueden apreciar las acciones que se pueden hacer
 ![image](https://github.com/user-attachments/assets/c7953e14-a5ec-4afb-a7c6-13896590dcbc)
 ![image](https://github.com/user-attachments/assets/fb85abc8-02a9-4759-b45a-e6b8e298fb68)
 
-
-
-Cuando se quiere agregar un 
+Cuando se quiere agregar un objeto se selecciona la categoria y se guarda un item que el usuario desse con su cantidad 
+y viceversa para la eliminacion o actualizacion 
+![image](https://github.com/user-attachments/assets/8374316d-4e20-4818-a978-9b58a2ac91aa)
+Y para la visualizacion de contenidos se tienen separados por pestañas para asi ver mas organizadamente lo que contiene cada categoria
 
