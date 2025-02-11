@@ -8,7 +8,7 @@ public class SimulacionBodega {
     }
 }
         /*try {
-            FirebaseService firebaseService = new FirebaseService("ruta/tu-service-account.json");
+            FirebaseService firebaseService = new FirebaseService(""src/main/resources/firebasebodega.json"");
             
             while (true) {
                 System.out.println("\n=== SISTEMA DE BODEGA ===");
